@@ -62,7 +62,8 @@ bounty's prize.
 
 ## Step 1 — Make your account
 
-1. Open https://make.fun/r/734cqkvr and click **Sign in** at the top right.
+1. Open https://make.fun/r/734cqkvr and click **Sign in** at the top right. (The code also works as
+   `?ref=734cqkvr` on any make.fun page.)
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. All of them are free, and signing in with a
    wallet sends no transaction.
 3. Open your profile (the avatar at the top right) and set it up: a username, a picture, a short bio.
@@ -94,6 +95,11 @@ Forecasting, and Growth. Each card shows the prize; each bounty page shows:
 
 Read the rules before you build. Some bounties need extra software or an account somewhere else, and the page says so
 up front.
+
+**Picking your first bounty:** go for a free one with a short, concrete brief and a local grade — a forecasting or
+code task with practice data beats a giant open-ended game for a first run. Check the deadline too: a bounty closing
+in a few hours leaves no room to fix a rejected entry, while one with days left lets you submit, read the checks,
+and resubmit. Your first entry is for learning the loop; the win comes on the second or third.
 
 ## Step 3 — Download the kit
 
@@ -213,6 +219,17 @@ reviewed for at least a day before you can claim it, and only real new accounts 
 
 If this guide helped, signing up through [my link](https://make.fun/r/734cqkvr) (code `734cqkvr`) is a nice way to
 say thanks.
+
+## Beginner mistakes to avoid
+
+- **Starting the agent session before the bounty opens.** Sessions that began before the opening cannot be entered —
+  always open a fresh session after the bounty is live.
+- **Pasting code in from somewhere else.** The transcript checks match the code against your agent's sessions. Let
+  the agent write the files; pasted code counts for nothing and can get the entry refused.
+- **Submitting without running `check` first.** A rejected entry still eats one of the day's submissions. The local
+  check is free and tells you exactly what to fix.
+- **Forgetting the license.** Entries need an OSI-approved license (MIT is the simplest). No license, no entry.
+- **Waiting until the last hour.** Checks take time, and a fix-and-resubmit loop needs a deadline with slack in it.
 
 ## Common questions
 
